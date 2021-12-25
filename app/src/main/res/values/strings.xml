@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab 03 - Switch_and_Dialog_Polubenskiy</string>
+
+    <string name="product">Products</string>
+    <string name="count">Count</string>
+    <string name="price">Price</string>
+    <string name="buttonCalculate">Calculate</string>
+    <string name="productAplle">Apple</string>
+    <string name="productStrawberry">Strawberry</string>
+    <string name="productBlueberry">Blueberry</string>
+    <string name="productPotatoes">Potatoes</string>
+    <string name="resultSum"></string>
+    <string name="rb_Message">Output via message</string>
+    <string name="rb_Toast">Output via toast</string>
+
+
+</resources>
+
+
